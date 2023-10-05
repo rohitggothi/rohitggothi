@@ -2,10 +2,11 @@
 <h3 align="center">A passionate Software and Application Developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://projectly.tech/](https://projectly.tech/)
-
+- 📄 Go to my portfolio [https://rohitgothi.projectly.tech/](https://rohitgothi.projectly.tech/)
 - 📫 How to reach me **rohitggothi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12go-5cz6Zb3sSuZhVKAeh9-_REuzWWHI/view?usp=sharing](https://drive.google.com/file/d/12go-5cz6Zb3sSuZhVKAeh9-_REuzWWHI/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
